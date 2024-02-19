@@ -1,0 +1,64 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+.router-link-exact-active{
+  font-weight: bold;
+}
+
+#app .btn{
+  background-color: #4EB883;
+  color: #fff;
+}
+
+.navbar .badge{
+  background-color: #4EB883;
+}
+
+
+.card{
+  border: none;
+}
+
+.card .card-img-top{
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+nav .breadcrumb{
+  background-color: transparent;
+  padding: 0;
+}
+
+.img-fluid{
+  border-radius: 20px;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    color: hsla(160, 100%, 37%, 1);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+  }
+
+  #app {
+    padding: 0 2rem;
+  }
+}

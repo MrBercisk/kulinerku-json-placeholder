@@ -1,0 +1,165 @@
+{
+  "best-products": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "Nasi Goreng",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": "2",
+      "kode": "K-02",
+      "nama": "Nasi Goreng",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg"
+    },
+    {
+      "id": "3",
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    },
+    {
+      "id": "4",
+      "kode": "K-04",
+      "nama": "Mie Ayam Bakso",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "mie-ayam-bakso.jpg"
+    },
+    {
+      "id": "5",
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg"
+    },
+    {
+      "id": "6",
+      "kode": "K-03",
+      "nama": "Bakso",
+      "harga": 17000,
+      "is_ready": true,
+      "gambar": "bakso.jpg"
+    },
+    {
+      "id": "7",
+      "kode": "K-07",
+      "nama": "Pangsit",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "pangsit.jpg"
+    },
+    {
+      "id": "8",
+      "kode": "K-08",
+      "nama": "Kentang Goreng",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpg"
+    },
+    {
+      "id": "9",
+      "kode": "K-09",
+      "nama": "Opor Ayam",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "lontong-opor-ayam.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "id": "0957",
+      "nama": "BSDev",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "id": "664d",
+          "jumlah_pemesanan": 1,
+          "keterangan": "Pedas",
+          "product": {
+            "id": "1",
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 15000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "95de",
+      "nama": "bim",
+      "noMeja": "1",
+      "keranjangs": [
+        {
+          "id": "9b5d",
+          "jumlah_pemesanan": 1,
+          "keterangan": "Pedas",
+          "product": {
+            "id": "2",
+            "kode": "K-02",
+            "nama": "Nasi Goreng",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "45c2",
+      "nama": "udin",
+      "noMeja": "3",
+      "keranjangs": [
+        {
+          "id": "e4bc",
+          "jumlah_pemesanan": 3,
+          "keterangan": "Pedas",
+          "product": {
+            "id": "1",
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 15000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
