@@ -1,4 +1,4 @@
-# vue-project
+# Kulinerku Vue js with Fake API json placeholder
 
 This template should help get you started developing with Vue 3 in Vite.
 
